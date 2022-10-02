@@ -17,11 +17,11 @@ RMSE for Parameter 9:-
 
 RMSE for Parameter 10:-
 
-![Parameter 10](/images/Para10-.png "")
+![Parameter 10](/images/Para-10.png "")
 
 RMSE for Parameter 11:-
 
-![Parameter 11](/images/Para11-.png "")
+![Parameter 11](/images/Para-11.png "")
 
 RMSE for Parameter 12:-
 
